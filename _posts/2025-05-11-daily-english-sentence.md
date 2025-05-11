@@ -5,15 +5,11 @@ date: 2024-03-23 12:00:00 +0900
 categories: english
 ---
 
-# Today's English Sentence
-
 https://edition.cnn.com/2025/05/10/europe/putin-russia-ukraine-direct-talks-intl-hnk
 
 "Putin says Russia ready for 'direct talks' with Ukraine as US and European leaders press for a ceasefire"
 
 푸틴, 미국과 유럽 지도자들의 휴전 요구 속 우크라이나와 '직접 회담' 준비 완료 발표
-
-## Article Translation (기사 번역)
 
 Russian President Vladimir Putin has proposed holding “direct talks” with Ukraine on Thursday in Istanbul, as European leaders and the United States attempt to push Moscow to agree to a 30-day ceasefire to bring an end to the three-year conflict.
 
