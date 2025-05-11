@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily English Sentence - May 11, 2025"
+title: "Putin says Russia ready for ‘direct talks’ with Ukraine as US and European leaders press for a ceasefire - May 11, 2025"
 date: 2024-03-23 12:00:00 +0900
 categories: english
 ---
